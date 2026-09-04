@@ -10,8 +10,6 @@ A responsive personal portfolio website by **MaKJ**, built as part of the MST Co
 
 
 
-![Portfolio Homepage](images/portfolio-homepage.png)
-
 ## Technologies Used
 
 - HTML5
